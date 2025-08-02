@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "private": true,
   "type": "module",
-  "homepage": "https://cafirmaago.github.io/ITPROFEL4_WebPortfolio",
+  "homepage": "https://CafirmaAgo.github.io/ITPROFEL4_WebPortfolio",
   "scripts": {
     "dev": "vite",
     "build": "vite build",

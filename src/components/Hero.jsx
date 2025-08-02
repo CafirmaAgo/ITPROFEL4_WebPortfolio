@@ -1,5 +1,5 @@
 import React from "react";
-import HeroImage from '../assets/user_sample.jpg'
+import HeroImage from '../assets/hero_sample.jpg'
 import {ReactTyped} from "react-typed";
 
 const Hero = () => {
